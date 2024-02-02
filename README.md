@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max
-- 👀 I’m interested in Tech, Space, Electronic music and much more 😊
-- 🌱 I’m currently learning Java
+- ✨ I’m interested in Tech, Space, Electronic music and much more 😊
+- 👀 I’m currently looking for Java backend dev job
 - 👨‍💻 Check out my [CV page](https://konkinm.github.io)
 - 📫 You can text me in [Telegram](https://t.me/Mfx_m)
 
