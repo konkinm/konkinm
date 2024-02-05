@@ -46,3 +46,15 @@ I am a Java backend Web Developer <img src="https://media.giphy.com/media/WUlplc
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-505050?style=for-the-badge&logo=apachemaven)
 ![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-303030?style=for-the-badge&logo=intellijidea)
+
+
+---
+
+### :open_file_folder: My projects:
+
+
+#### [Restaurant Voting App](https://github.com/konkinm/restaurantvoting)
+A voting system for deciding where to have lunch. Spring Boot Rest API Application with OpenAPI/Swagger documentation.
+
+#### [NASAPicOnSpring](https://github.com/konkinm/NASAPicOnSpring)
+Telegram Bot on Spring Boot which send you pics and explanation text from NASA A Picture of A Day. Deployed on Yandex Cloud as a serverless application.
