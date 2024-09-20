@@ -20,11 +20,8 @@
 </div>
 
 ### :man_technologist: About Me:
-I am a Java backend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Java/Kotlin backend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ✨ I’m interested in object-oriented and functional programming, web-technologies and much more 😊
-- 👀 I’m currently looking for Java backend dev job
-- 📫 You can text me in [Telegram](https://t.me/Mfx_m) or send an email to [maximka.konkin@yandex.ru](mailto://maximka.konkin@yandex.ru)
-
 
 ---
 
