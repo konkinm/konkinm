@@ -1,17 +1,5 @@
 <div id="header" align="center">
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/max-konkin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-  <a href="https://t.me/Mfx_m">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=konkinm&style=flat-square&color=blue" alt=""/>
-
 <h1>
   Hi! I'm Max.
 </h1>
@@ -51,3 +39,9 @@ web-technologies and much more 😊
 
 #### [NASAPicOnSpring](https://github.com/konkinm/NASAPicOnSpring)
 Telegram Bot on Spring Boot which send you pics and explanation text from NASA A Picture of A Day. Deployed on Yandex Cloud as a serverless application.
+
+---
+
+<div id="footer" align="center">
+  <img src="https://komarev.com/ghpvc/?username=konkinm&style=flat-square&color=blue" alt=""/>
+</div>  
